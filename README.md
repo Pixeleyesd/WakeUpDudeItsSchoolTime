@@ -1,5 +1,6 @@
 # WakeUpDudeItsSchoolTime
 WakeUpDudeItsSchoolTime is an alarm clock with 6 keys, a TFT screen and a buzzer (to make the alarm sounds ofc)
+
 ![3D Render](/Images/Render1.png)
 
 ## Features
@@ -18,6 +19,7 @@ This simple design comprises of 2 seperate parts. The main shell used for holdin
 
 ## PCB Design
 The PCB was designed using KiCad. I had to wire BL directly to GND and RST to +3.3V in order to allow enough pins for my 6 buttons.
+
 ![PCB Schematic](/Images/PCB1.png)
 <img src="Images/PCB2.png" width="50%" alt="PCB Design">
 <img src="Images/PCB3.png" width="49%" alt="PCB Render">
