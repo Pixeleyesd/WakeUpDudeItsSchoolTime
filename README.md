@@ -27,7 +27,7 @@ The PCB was designed using KiCad. I had to wire BL directly to GND and RST to +3
 ## Firmware
 #### PLEASE NOTE, IT IS RECOMMENDED TO REPLACE THE WIFI SSID IN THE FIRMWARE WITH YOUR OWN.
 
-WakeUpDudeItsSchoolTime uses firmware written in C.
+WakeUpDudeItsSchoolTime uses firmware written in C++.
 
 Below is the layout of the switches:
 ```
